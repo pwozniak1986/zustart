@@ -2,7 +2,7 @@
   "name": "zustart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/pwozniak1986/zustart",
+  "homepage": "https://pwozniak1986.github.io/zustart",
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
